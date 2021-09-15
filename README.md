@@ -10,6 +10,7 @@ npx zenn preview
 
 ```shell
 npx textlint --init
+npm install --save-dev textlint-rule-preset-ja-technical-writing
 npm install --save-dev textlint textlint-rule-preset-smarthr
 npm ls -g --depth=0
 npm install textlint-rule-preset-smarthr --global
