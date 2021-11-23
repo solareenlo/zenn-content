@@ -17,8 +17,10 @@ npm install textlint-rule-preset-smarthr --global
 npm install textlint --global
 ```
 
-## References
+## Reference
 ### Zenn
+- [GitHub ActionsでZenn記事の予約投稿を実現する](https://zenn.dev/ryo_kawamata/articles/schedule-publish-on-zenn-article)
+- [GitHub × zenn.devで気軽に「予定時刻に公開」する記事を書く](https://zenn.dev/kyoh86/articles/c02511740d70365a1420)
 - [zenn-cli + reviewdog + textlint + GitHub Actions で執筆体験を最高にする](https://zenn.dev/serima/articles/4dac7baf0b9377b0b58b)
 
 ### Lint
